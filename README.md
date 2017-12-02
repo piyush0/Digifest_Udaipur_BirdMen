@@ -14,3 +14,9 @@ It is not only easing out the process of delivering services but also promoting 
 ● Ratings can be used to decide on incentives.
 
 ● There would a voice recognition based complaint/review system which modifies ratings in real time.
+
+## Kiosk Usage and Demographic Data to Predict Kiosk Location
+
+● We utilise kiosk usage, population data and geo mapping data to identify which areas need additional kiosks.
+
+● This prediction can be used to give incentives to start kiosks in areas of high demand.
